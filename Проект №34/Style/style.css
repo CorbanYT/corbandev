@@ -194,7 +194,7 @@ li:last-child {
 .mask img {width: 72vh; border-radius: 150px; border: 3px solid white;}
 .maskLI {padding-left: 50px; padding-top: 230px;}
 .block-clear {width: 350px; height: 300px; border: 0px solid black;}
-.header li a {padding-left: 0px;}
+.header li a {padding-left: 15px;}
 
 .block-border {width: 450px; height: 300px; border: 1px solid black;}
 .block-border img {width:150px; border-radius: 100px;}
